@@ -1,0 +1,8 @@
+[{
+  "id": "tools",
+  "children": [{
+    "id": "dtools_logline",
+    "caption": "DTools: log current line",
+    "command": "dtools_logline"
+  }]
+}]

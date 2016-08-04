@@ -1,0 +1,10 @@
+{
+  "dependencies": [],
+  "description": "use git the log current line",
+  "platforms": [
+    "*"
+  ],
+  "sublime_text": "*",
+  "url": "",
+  "version": "2016.08.05.09.00"
+}
